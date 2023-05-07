@@ -32,7 +32,6 @@ H2 { text-align: center }
 }
 
 .image-container {
-  /*display: flex; /* or display: inline-flex; */
   margin-bottom: 10px;
   text-align: center;
 }
