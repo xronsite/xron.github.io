@@ -9,6 +9,14 @@ body {
   text-align: center;
 }
 
+@font-face {
+  font-family: 'CustomFont';
+  src: url('path/to/font.ttf') format('truetype');
+}
+
+body {
+  font-family: 'CustomFont', sans-serif;
+}
 
 
 H2 { text-align: center }
