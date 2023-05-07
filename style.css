@@ -11,7 +11,7 @@ body {
 
 @font-face {
   font-family: 'CustomFont';
-  src: url('path/to/font.ttf') format('truetype');
+  src: url('Lekton/Lekton-Italic.ttf') format('truetype');
 }
 
 body {
