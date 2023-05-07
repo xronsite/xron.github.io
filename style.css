@@ -9,15 +9,6 @@ body {
   text-align: center;
 }
 
-@font-face {
-  font-family: 'CustomFont';
-  src: ('Lekton/Lekton-Italic.ttf') format('truetype');
-}
-
-body {
-  font-family: 'CustomFont', sans-serif;
-}
-
 
 
 H2 { text-align: center }
